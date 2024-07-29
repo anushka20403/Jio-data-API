@@ -5,7 +5,7 @@ This project includes an Exploratory Data Analysis (EDA) of a Jio recharges data
 ### Project Structure
 
 - **`graphs.ipynb`**: Contains visualizations such as bar graphs and other plots that represent insights from the Jio recharges dataset.
-- **`functions`**: - **`functions.py`**: Contains functions for performing Exploratory Data Analysis (EDA) on the Jio recharges dataset, which are imported and used by the FastAPI application to generate various data insights.
+- **`functions.py`**: Contains functions for performing Exploratory Data Analysis (EDA) on the Jio recharges dataset, which are imported and used by the FastAPI application to generate various data insights.
 - **`app.py`**: Main FastAPI application file.
 
 ### Features
