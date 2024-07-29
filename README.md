@@ -22,5 +22,7 @@ The FastAPI application exposes the following endpoints:
   - `value`: (1 to 7) An integer parameter to choose the type of statistic to retrieve.
   - `pg_name`: An optional string parameter to filter results by payment gateway name.
 
+### Example:
+
 
 ![Screenshot 2024-07-29 171941](https://github.com/user-attachments/assets/7d71d2b9-82e5-47d2-b2bd-2751e25ce8dd)
