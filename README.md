@@ -24,5 +24,6 @@ The FastAPI application exposes the following endpoints:
 
 ### Example:
 
+#### value=6 gives data about recharges made from which payment gateways, number of successes, failures, not confirmed payments per PG and their percentages.
 
 ![Screenshot 2024-07-29 171923](https://github.com/user-attachments/assets/baba0e67-edc0-4cd9-97e6-361c3878ade8)
