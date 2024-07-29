@@ -4,7 +4,7 @@ This project includes an Exploratory Data Analysis (EDA) of Jio recharges datase
 
 ### Project Structure
 
-- **`graphs.ipynb`**: Contains visualizations such as bar graphs and other plots that represent insights from the Jio recharges dataset.
+- **`graphs.ipynb`**: Contains visualizations such as bar graphs and other plots that represent insights from the Jio recharges API.
 - **`functions.py`**: Contains functions for performing Exploratory Data Analysis (EDA) on the Jio recharges dataset, which are imported and used by the FastAPI application to generate various data insights.
 - **`app.py`**: Main FastAPI application file. Run the app using the command: $ uvicorn app:app --reload --port 9898
 
