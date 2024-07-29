@@ -20,4 +20,4 @@ The FastAPI application exposes the following endpoints:
 
 - **`GET /jiodata/stats`**: Retrieve various statistics from the dataset. You can specify query parameters to get different types of insights:
   - `value`: (1 to 7) An integer parameter to choose the type of statistic to retrieve.
-  - - `pg_name`: An optional string parameter to filter results by payment gateway name.
+  - `pg_name`: An optional string parameter to filter results by payment gateway name.
