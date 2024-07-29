@@ -1,6 +1,6 @@
 # Jio Recharges API
 
-This project includes an Exploratory Data Analysis (EDA) of a Jio recharges dataset and a FastAPI-based API to interact with the analyzed data. 
+This project includes an Exploratory Data Analysis (EDA) of Jio recharges dataset and a FastAPI-based API to interact with the analyzed data. 
 
 ### Project Structure
 
